@@ -9,6 +9,24 @@
   </section>
 </div>
 
+
+### Tecnologias
+
+<section>
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+  
+  <!--##
+  
+  <div>
+  
+ ## Entre em contato comigo! -->
+ 
+   
+ 
 <!--
 **gleicekelly13/gleicekelly13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

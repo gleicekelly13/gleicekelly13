@@ -8,7 +8,7 @@ Tenho 31 anos, e sou uma desenvolvedora front-end. É um prazer recebê-lo(a) aq
     <a
     target="_blank"
     style="text-decoration: none"
-    href="https://https://github.com/gleicekelly13?tab=repositories"
+    href="https://github.com/gleicekelly13?tab=repositories"
     >Acesse meus repositórios</a>
   </h2>
 </div>

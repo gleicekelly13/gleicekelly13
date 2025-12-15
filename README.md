@@ -1,7 +1,7 @@
 # Olá devs! Eu sou a Gleice Kelly 👋
 ## Seja bem-vindo(a)!
 
-Tenho 34 anos, e sou uma desenvolvedora front-end. É um prazer recebê-lo(a) aqui!
+Tenho 35 anos, e sou uma desenvolvedora front-end. É um prazer recebê-lo(a) aqui!
 
 <div align='center'>
   <h2>
